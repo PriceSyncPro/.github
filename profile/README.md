@@ -11,5 +11,6 @@ Kullanılan teknolojiler:
 
 ## Frontend
 Kullandığımız teknolojiler:
-- React
-- HTML5, CSS3 ve JavaScript
+- React 18
+- Next.JS 15
+- HTML5, CSS3 ve TypeScript
